@@ -1,2 +1,2 @@
 # Python_ML
-To learn C++ guided by &lt;Python ML Perfect Guide> written by Cheolmin Kwon
+To learn Machine Learning (ML) guided by &lt;Python ML Perfect Guide> written by Cheolmin Kwon
