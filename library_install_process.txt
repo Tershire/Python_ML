@@ -1,3 +1,18 @@
 # scikit-learn [1.5.0]
 conda install -c conda-forge scikit-learn
 
+# jupyter lab [4.2.1]
+conda install -c conda-forge jupyterlab
+
+# numpy [1.26.4]
+conda install numpy
+
+# pandas [2.1.1]
+conda install anaconda::pandas
+
+# matplotlib [3.8.4]
+conda install matplotlib
+
+# graphviz [0.20.3]
+conda install conda-forge::python-graphviz
+
