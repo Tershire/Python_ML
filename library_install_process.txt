@@ -16,6 +16,10 @@ conda install matplotlib
 # graphviz [0.20.3]
 conda install conda-forge::python-graphviz
 
-# seaborn [0.12.2]
+# seaborn [0.12.2]->[0.13.2]
 conda install anaconda::seaborn
+pip install seaborn --upgrade
+
+# xlrd [2.0.1]
+conda install anaconda::xlrd
 
