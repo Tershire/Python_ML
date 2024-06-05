@@ -16,3 +16,6 @@ conda install matplotlib
 # graphviz [0.20.3]
 conda install conda-forge::python-graphviz
 
+# seaborn [0.12.2]
+conda install anaconda::seaborn
+
